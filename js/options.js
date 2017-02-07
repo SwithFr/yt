@@ -1,4 +1,4 @@
-let btn = document.querySelector( '#desable-btn' )
+let btn = document.querySelector( '#disable-btn' )
 let active = !!localStorage.getItem( 'yt-cleaner-active' )
 
 if ( active ) {
