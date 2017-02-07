@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Youtube cleaner",
-  "description": "This extension allows you to hide some unwanted videos and auto desable annotations.",
+  "description": "This extension allows you to hide some unwanted videos and auto disable annotations.",
   "version": "1.0",
   "content_scripts": [
     {
